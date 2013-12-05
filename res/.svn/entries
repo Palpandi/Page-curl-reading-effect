@@ -1,0 +1,46 @@
+10
+
+dir
+10
+http://android-page-curl.googlecode.com/svn/trunk/res
+http://android-page-curl.googlecode.com/svn
+
+
+
+2011-08-29T19:00:13.479743Z
+9
+B.Thax.DCG@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fe9700e3-ac9a-c1bf-b88d-d2ce79dac9cd
+
+values
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+
